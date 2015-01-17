@@ -1,2 +1,2 @@
-# Selfie-Hero-iOS
+# selfie hero iOS
 The iOS app for Selfie Hero.
