@@ -1,2 +1,2 @@
-# selfie hero iOS
-The iOS app for Selfie Hero.
+# Snappo iOS
+The iOS app for Snappo.
